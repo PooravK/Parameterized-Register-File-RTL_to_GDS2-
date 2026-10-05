@@ -1,5 +1,7 @@
 <img width="1920" height="1080" alt="Screenshot from 2026-10-05 16-36-48" src="https://github.com/user-attachments/assets/d5e58ab9-3d12-4557-a3ba-70512bdc4176" />
 
+
+
 **TECHNOLOGY:** 45
 **CLOCK:** 200 MHz
 
